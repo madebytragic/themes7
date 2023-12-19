@@ -23,7 +23,7 @@ export const links = [
   },
   {
     name: "Email",
-    url: "mailto:619cogitoergosum@gmail.com",
+    url: "mailto:lrmn.dev@gmail.com",
     color: "orange",
   },
 ];
